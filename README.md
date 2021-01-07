@@ -21,7 +21,6 @@
 
 ![Google Chrome](https://img.shields.io/badge/-Google&ensp;Chrome-4285F4?style=for-the-badge&logo=Google-Chrome&logoColor=eeffff)
 ![Firefox Browser](https://img.shields.io/badge/-Firefox&ensp;Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=eeffff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=eeffff)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=eeffff)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual&ensp;Studio&ensp;Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=eeffff)
 
@@ -29,5 +28,6 @@
 
 [![facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=Figma&logoColor=eeffff)](https://www.facebook.com/frontendercode)
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=eeffff)](https://t.me/frontendcoder)
-[![Skype](https://img.shields.io/badge/-Skype-00AFF0?style=for-the-badge&logo=Skype&logoColor=eeffff)](skype:[webrabcom])
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=eeffff)](https://www.instagram.com/frontendercode/?hl=ru)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=eeffff)](https://github.com/frontend-coder)
 
